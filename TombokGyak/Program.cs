@@ -26,6 +26,7 @@
         {
             string kitalalandoSzo = Kivalasztas();
             string eddigiTalalatok = new string('_', kitalalandoSzo.Length);
+            // Fazekas Kristóf
             int tippekSzama = 0;
             string eddigiBetuk = "";
             Console.WriteLine(eddigiTalalatok);
